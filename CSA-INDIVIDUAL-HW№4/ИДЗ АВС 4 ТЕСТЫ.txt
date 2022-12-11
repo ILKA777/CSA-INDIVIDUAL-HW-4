@@ -1,0 +1,15 @@
+Apple 2 2 3
+Love 3 5 6
+Sun 6 5 4
+War_and_Peace 2 6 4
+Dogs’s_Heart 6 9 2
+Little_Prince 2 2 6
+Voice 3 3 6
+Lucky 2 5 7
+Ugly 4 5 8
+Hello 2 4 5
+
+
+
+
+
